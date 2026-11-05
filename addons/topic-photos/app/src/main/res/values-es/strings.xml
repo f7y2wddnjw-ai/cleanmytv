@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Ajustes de Topic Photos</string>
+    <string name="settings_short">Ajustes</string>
+    <string name="finding">Buscando fotos… (el TV necesita internet)</string>
+    <string name="credit">Foto: %1$s</string>
+    <string name="details">Detalles</string>
+    <string name="place">Lugar</string>
+    <string name="by">Foto</string>
+    <string name="taken">Tomada</string>
+    <string name="size">Tamaño</string>
+    <string name="original">original %1$s</string>
+    <string name="not_given">Sin datos</string>
+    <string name="topics">Temas</string>
+    <string name="topics_hint">Hasta ocho, marcados de las listas o escritos. En inglés para encontrar más fotos.</string>
+    <string name="topics_default">Variados</string>
+    <string name="interval">Cambiar foto cada</string>
+    <string name="day_night">Fotos de día y de noche</string>
+    <string name="day_night_hint">De 7:00 a 19:00, fotos de día de tus temas; el resto del día, fotos de noche.</string>
+    <string name="set_screensaver">Usar como protector de pantalla</string>
+    <string name="set_screensaver_hint">Abre los ajustes del protector de pantalla del TV: elige Topic Photos ahí.</string>
+    <string name="seconds">%1$d s</string>
+    <string name="minutes">%1$d min</string>
+    <string name="on">Activado</string>
+    <string name="off">Desactivado</string>
+    <string name="topics_screen_hint">Marca hasta ocho o escribe los tuyos: las sugerencias lo completan. En inglés para encontrar más fotos.</string>
+    <string name="topics_write">Escribir un tema…</string>
+    <string name="topics_add">Agregar</string>
+    <string name="topics_yours">Tus temas</string>
+    <string name="topics_holidays">Festividades</string>
+    <string name="topics_seasons">Estaciones</string>
+    <string name="topics_more">Naturaleza y más</string>
+    <string name="topics_full">Hasta ocho temas: desmarca uno primero</string>
+</resources>
